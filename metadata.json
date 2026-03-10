@@ -1,0 +1,5 @@
+{
+  "name": "AqboHub",
+  "description": "Знания = Валюта. Учись. Помогай. Зарабатывай. Внутренняя экономика знаний Лицея Акбобек.",
+  "requestFramePermissions": ["camera"]
+}
